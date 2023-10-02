@@ -1,0 +1,19 @@
+21 - 27 ----> text files processing
+28 --->  date related functions
+29 --->  function and module importing
+30 --->  eucledian distance
+31 --->  fibonacci using recursion
+31(a) ---> fibonnacci series generation
+32 --->  factorial using recursion
+32(a) ---> factorial using iteration
+33 --->  checking a palindrome
+34 --->  cube root of a perfect cube (exhaustive enumeration) while loop
+35 ----> cube root of a perfect cube (exhaustive enumeration) for loop
+36 ----> square root using exhaustive enumeration 
+37 ----> square toot using binary search
+38 ----> module import circle
+39 ----> cloning lists (illustration of a problem)
+40 ----> OOP - illustration ofa point and rectangle as two objects 
+41 ----> operator overloading and polymorphism
+42 ----> oop using cards
+43 ----> inheritance 
